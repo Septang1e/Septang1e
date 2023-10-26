@@ -1,9 +1,9 @@
-### Hi there 👋
 
+![flyraty's github stats](https://github-readme-stats.vercel.app/api?username=flyraty&show_icons=true)
 <!--
 **Septang1e/Septang1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![flyraty's github stats](https://github-readme-stats.vercel.app/api?username=flyraty&show_icons=true)
+
 
 Here are some ideas to get you started:
 
