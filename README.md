@@ -1,4 +1,4 @@
-![septangle's github stats](https://github-readme-stats.vercel.app/api?username=septang1e&show_icons=true)
+![septangle's github stats](https://git-stats.septangle.cn/?username=septang1e&show_icons=true&theme=onedark)
 <!--
 **Septang1e/Septang1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
