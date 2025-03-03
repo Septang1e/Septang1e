@@ -1,5 +1,5 @@
-[![Top Langs](https://git-stats.septangle.cn/top-langs/?username=Septang1e&hide=html&show_icons=true&theme=onedark)](https://github.com/Septang1e/github-readme-stats)
-![septangle's github stats](https://git-stats.septangle.cn/?username=septang1e&show_icons=true&theme=onedark)
+[![Top Langs](https://git-stats.septangle.cn/top-langs/?username=Septang1e&hide=html&show_icons=true&theme=onedark)](https://git-stats.septangle.cn/top-langs/?username=Septang1e&hide=html&show_icons=true&theme=onedark)
+[![septangle's github stats](https://git-stats.septangle.cn/?username=septang1e&show_icons=true&theme=onedark)](https://git-stats.septangle.cn/?username=septang1e&show_icons=true&theme=onedark)
 <!--
 **Septang1e/Septang1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
